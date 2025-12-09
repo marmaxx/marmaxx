@@ -1,3 +1,6 @@
+--- 
+
+
 # 👋 Salut, c'est Marius
 
 ## 🚀 A propos de moi
@@ -23,6 +26,7 @@
 
 ---
 
+
 # 👋 Hi, I'm Marius
 
 ## 🚀 About Me
@@ -44,3 +48,6 @@ Master’s student in Software Science and Technology at Sorbonne University, pa
 * 🎨 Sectional door configurator for the company EIE France (full front-end development)
 * 📊 Thickness-2 graph generation as part of a research project (Python + SAT solver)
 * 🔌 Brick breaker with complex physics
+
+
+---
