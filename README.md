@@ -1,6 +1,3 @@
---- 
-
-
 # 👋 Salut, c'est Marius
 
 ## 🚀 A propos de moi
